@@ -1,6 +1,8 @@
 ## IE from Visually Rich Document
 
-Visually Rich documents refer to physical and digital documents in which visual cues play an important role in semantics. Examples include posters, banners, forms etc. These documents use a wide range of visual cues including color distribution, font size, distance and orientation to augment or highlight the entities that appear in them. 
+Visually Rich documents are physical and digital documents where visual cues play an important role in document semantics. Examples include posters, banners, forms, magazine articles etc. 
+
+An information extraction (IE) task defined on a visually rich document can range from named entity recognition, relation extraction to event detection. We provide a brief overview of some of the recent works on these domains below.   
 
 ### Markdown
 
