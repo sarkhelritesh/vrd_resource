@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Information Extraction from Visually Rich Document
 
-You can use the [editor on GitHub](https://github.com/sarkhelritesh/vrd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Visually Rich documents refer to physical and digital documents in which visual cues play an important role in semantics. Examples include posters, banners, forms etc. These documents use a wide range of visual cues including color distribution, font size, distance and orientation to augment or highlight the entities that appear in them. 
 
 ### Markdown
 
