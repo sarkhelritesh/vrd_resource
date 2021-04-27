@@ -2,7 +2,7 @@
 
 Visually Rich documents are physical and digital documents where visual cues play an important role in document semantics. Examples include posters, banners, forms, magazine articles etc. 
 
-An information extraction (IE) task defined on a visually rich document can range from named entity recognition, relation extraction to event detection. We provide a brief overview of some of the recent works on these domains below.   
+Recent papers on Visually Rich Documents have proposed solutions for a range of different tasks, including named entity recognition, relation extraction, layout analysis, classification, and retrieval. I will discuss some of them in this series.   
 
 ### Markdown
 
