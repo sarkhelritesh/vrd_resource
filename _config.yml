@@ -4,4 +4,4 @@ description: This blog focuses on recently published papers on Visually Rich Doc
 google_analytics: "UA-165274113-1"
 show_downloads: "true"
 github:
-  zip_url: http://example.com/download.zip
+  zip_url: https://github.com/sarkhelritesh/vrd/blob/main/vrd.bib
