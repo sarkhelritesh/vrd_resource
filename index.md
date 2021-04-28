@@ -1,8 +1,6 @@
-## Visually Rich Documents
+Visually Rich documents refer to physical and digital documents in which visual cues play an important role in document semantics. Examples include posters, banners, forms, magazine articles etc. 
 
-Visually Rich documents are physical and digital documents in which visual cues play an important role in document semantics. Examples include posters, banners, forms, magazine articles etc. 
-
-A number of recent works have proposed novel solutions for named entity recognition, relation extraction, layout analysis, classification, and retrieval tasks for these documents. I will discuss some of these briefly in this series.   
+A number of recent works have proposed novel solutions for named entity recognition, relation extraction, layout analysis, classification, and retrieval for these documents. We discuss some of them in this series.   
 
 ### A. Chargrid: Towards Understanding 2D Documents
 
