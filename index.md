@@ -4,9 +4,9 @@ Visually Rich documents are physical and digital documents in which visual cues 
 
 A number of recent works have proposed novel solutions for named entity recognition, relation extraction, layout analysis, classification, and retrieval tasks for these documents. I will discuss some of these briefly in this series.   
 
-### Chargrid: Towards Understanding 2D Documents
+### A. Chargrid: Towards Understanding 2D Documents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Authors: Anoop Raveendra Katti, Christian Reisswig, Cordula Guder, Sebastian Brarda, Steffen Bickel, Johannes Höhne, and Jean Baptiste Faddoul
 
 ```markdown
 Syntax highlighted code block
