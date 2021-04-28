@@ -2,4 +2,6 @@ theme: jekyll-theme-slate
 title: A series on Visually Rich Documents
 description: This blog focuses on recently published papers on Visually Rich Documents
 google_analytics: "UA-165274113-1"
-show_downloads: "false"
+show_downloads: "true"
+github:
+  zip_url: http://example.com/download.zip
