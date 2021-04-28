@@ -1,10 +1,10 @@
-## IE from Visually Rich Document
+## Visually Rich Documents
 
 Visually Rich documents are physical and digital documents where visual cues play an important role in document semantics. Examples include posters, banners, forms, magazine articles etc. 
 
-Recent papers on Visually Rich Documents have proposed solutions for a range of different tasks, including named entity recognition, relation extraction, layout analysis, classification, and retrieval. I will discuss some of them in this series.   
+A number of recent works have proposed novel solutions for named entity recognition, relation extraction, layout analysis, classification, and retrieval tasks for these documents. I will discuss some of these briefly in this series.   
 
-### Markdown
+### Chargrid: Towards Understanding 2D Documents
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -26,7 +26,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
