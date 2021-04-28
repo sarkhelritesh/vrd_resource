@@ -3,7 +3,7 @@ Visually Rich documents refer to physical and digital documents in which visual 
 ### A. Chargrid: Towards Understanding 2D Documents
 
 ```markdown
-Authors: Anoop Raveendra Katti, Christian Reisswig, Cordula Guder, Sebastian Brarda, Steffen Bickel, Johannes Höhne, and Jean Baptiste Faddoul
+Authors: Katti et al.
 Conference: EMNLP 2018
 ```
 
