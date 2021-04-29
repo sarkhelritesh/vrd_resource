@@ -23,7 +23,7 @@ We classify these papers in five different categories.
     - [Retrieval](####retrieval)
 
 #### Information Extraction
-1. ```json Published``` [Chargrid: Towards Understanding 2D Documents](https://www.aclweb.org/anthology/D18-1476.pdf/), Anoop R Katti, Christian Reisswig, Cordula Guder, Sebastian Brarda, Steffen Bickel, Johannes Hohne, and Jean Baptiste Faddoul, *EMNLP 2018*
+1. ```html Published``` [Chargrid: Towards Understanding 2D Documents](https://www.aclweb.org/anthology/D18-1476.pdf/), Anoop R Katti, Christian Reisswig, Cordula Guder, Sebastian Brarda, Steffen Bickel, Johannes Hohne, and Jean Baptiste Faddoul, *EMNLP 2018*
 2. [VisualWordGrid: Information Extraction From Scanned Documents Using A Multimodal Approach](https://arxiv.org/pdf/2010.02358.pdf), Mohamed Kerroumi, Othmane Sayem, and Aymen Shabou, *Pre-print*
 3. [Wordgrid: Extending Chargrid with Word-level Information](https://www.researchgate.net/profile/Timo-Denk/publication/335715433_Wordgrid_Extending_Chargrid_with_Word-level_Information/links/5d77604c92851cacdb2e0858/Wordgrid-Extending-Chargrid-with-Word-level-Information.pdf), Timo I. Denk, *Pre-print*
 4. [BERTgrid: Contextualized Embedding for 2D Document Representation and Understanding](https://openreview.net/pdf?id=H1gsGaq9US), Timo I. Denk, Christian Reisswig, *Workshop on Document Intelligence at NeurIPS 2019*
