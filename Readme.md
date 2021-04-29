@@ -8,7 +8,7 @@ Curated by: [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 A lot of interesting works have been published in recent years on Visually Rich Documents. What makes tasks defined on these documents interesting is the multimodal nature of the document. We hope to provide a list of interesting papers to serve as a reference for researchers interested in this domain. The list below curates recent works published in ACL anthology, VLDB, SIGMOD, AAAI and NeurIPS affiliated conferences and workshops in no particular order. We also include some relevant pre-prints made publicly available by the authors. 
 
 
-*Disclaimer: This is **not** an exhaustive list. If you find a relavent paper missing and think it should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). Your contribution will help us keep this page up-to-date!*
+**Disclaimer: This is **not** an exhaustive list. If you find a relavent paper missing and think it should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). Your contribution will help us keep this page up-to-date!**
 
 ## Content Overview
 
