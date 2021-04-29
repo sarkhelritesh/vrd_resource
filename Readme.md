@@ -4,7 +4,7 @@
 
 Curated by: [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
-*Disclaimer: This is not an exhaustive list. If you have suggestions of relevant papers that should feature on this list, please feel free to submit a pull request or [email me](mailto:sarkhel.5@osu.edu). Your contributions will help keeping this resource up-to-date for our peers!*
+*Disclaimer: This is **not** an exhaustive list. If you find a relavent paper missing and think it should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). Your contribution will ensure the robustness of this resource page and help us keep it up-to-date!*
 
 ## Content Overview
 - [Paper List](#paper-list)
