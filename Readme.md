@@ -2,11 +2,16 @@
 
 ## A list of recent papers on various tasks for Visually Rich Documents
 
+A lot of interesting works have been published in recent years on Visually Rich Documents. What makes tasks defined on these documents interesting is the multimodal nature of the document. We hope to provide a list of interesting papers to serve as a reference for researchers interested in this domain. The list below curates recent works published in ACL anthology, VLDB, SIGMOD, AAAI and NeurIPS affiliated conferences and workshops in no particular order. 
+
 Curated by: [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
 *Disclaimer: This is **not** an exhaustive list. If you find a relavent paper missing and think it should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). Your contribution will help us keep this page up-to-date!*
 
 ## Content Overview
+
+We classify these papers in five different categories. 
+
 - [Paper List](#paper-list)
     - [Information Extraction](####information-extraction)
     - [Language Model](####language-model)
@@ -22,7 +27,8 @@ Curated by: [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 5. [Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](https://www.aclweb.org/anthology/N19-2005.pdf), Xiaojing Liu, Feiyu Gao, Qiong Zhang, and Huasha Zhao, *NAACL-HLT 2019*
 6. [Kleister: A novel task for Information Extraction involving Long Documents with Complex Layout](https://arxiv.org/pdf/2003.02356.pdf), Filip Graliński, Tomasz Stanisławek, Anna Wróblewska, Dawid Lipiński, Agnieszka Kaliska, Paulina Rosalska, Bartosz Topolski, and Przemysław Biecek, *Pre-print*
 7. [PICK: Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf), Wenwen Yu, Ning Lu, Xianbiao Qi, Ping Gong, and Rong Xiao, *Pre-print*
-8. [Spatial Dependency Parsing for Semi-Structured Document Information Extraction](https://arxiv.org/pdf/2005.00642.pdf), Wonseok Hwang, Jinyeong Yim, Seunghyun Park, Sohee Yang, and Minjoon Seo
+8. [Spatial Dependency Parsing for Semi-Structured Document Information Extraction](https://arxiv.org/pdf/2005.00642.pdf), Wonseok Hwang, Jinyeong Yim, Seunghyun Park, Sohee Yang, and Minjoon Seo, *Pre-print*
+9. [End-to-End Extraction of Structured Information from Business Documents with Pointer-Generator Networks](https://www.aclweb.org/anthology/2020.spnlp-1.6.pdf), Clément Sage, Alex Aussem, Véronique Eglin, Haytham Elghazel, and Jérémy Espinas, *Workshop on Structured Prediction for NLP, ACL 2020* 
 
 
 
