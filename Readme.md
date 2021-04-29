@@ -6,10 +6,10 @@ Curated by: [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
 ## Content Overview
 - [Paper List](#paper-list)
-    - [Information Extraction](#ie)
+    - [Information Extraction](#information extraction)
     - [Language Model](#lm)
     - [Layout Analysis](#la)
     - [Classification](#cls)
 
-#### Information Extraction #ie
+#### Information Extraction
     
