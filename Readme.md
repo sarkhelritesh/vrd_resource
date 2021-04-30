@@ -2,7 +2,7 @@
 
 #### [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
-<br/><br/>
+<br/>
 
 ![Sample Visually Rich Documents](https://github.com/sarkhelritesh/vrd_resource/blob/main/github_vrd_example.jpg?raw=true "Sample Visually Rich Documents")
 
