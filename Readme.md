@@ -20,7 +20,6 @@ We list these papers in five different directions.
 - [Classification](#document-classification)
 - [Resource Papers](#resource-papers)
 
-<br/>
 
 # Information Extraction
 
