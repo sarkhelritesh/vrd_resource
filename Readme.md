@@ -39,9 +39,11 @@ We classify these papers in five different categories.
 17. [Abstractive Information Extraction from Scanned Invoices (AIESI) using End-to-end Sequential Approach](https://arxiv.org/abs/2009.05728), Shreeshiv Patel, Dvijesh Bhatt  ```*Pre-print*```
 18. [VisualWordGrid: Information Extraction From Scanned Documents Using A Multimodal Approach](https://arxiv.org/pdf/2010.02358.pdf), Mohamed Kerroumi, Othmane Sayem, and Aymen Shabou  ```*Pre-print*``` 
 19. [Wordgrid: Extending Chargrid with Word-level Information](https://www.researchgate.net/profile/Timo-Denk/publication/335715433_Wordgrid_Extending_Chargrid_with_Word-level_Information/links/5d77604c92851cacdb2e0858/Wordgrid-Extending-Chargrid-with-Word-level-Information.pdf), Timo I. Denk  ```*Pre-print*``` 
-20. [Spatial Dual-Modality Graph Reasoning for Key Information Extraction](https://arxiv.org/pdf/2103.14470.pdf), Hongbin Sun, Zhanghui Kuang, Xiaoyu Yue, Chenhao Lin and Wayne Zhang ```*Pre-print*```\\
-
-
+20. [Spatial Dual-Modality Graph Reasoning for Key Information Extraction](https://arxiv.org/pdf/2103.14470.pdf), Hongbin Sun, Zhanghui Kuang, Xiaoyu Yue, Chenhao Lin and Wayne Zhang ```*Pre-print*```\
+\
+\
+\
+\
 
 # Language Model
 
@@ -50,9 +52,11 @@ We classify these papers in five different categories.
 3. [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/pdf/2012.14740.pdf), Yang Xu, Yiheng Xu, Tengchao Lv, Lei Cui, Furu Wei, Guoxin Wang, Yijuan Lu, Dinei Florencio, Cha Zhang, Wanxiang Che, Min Zhang, and Lidong Zhou  ```*Pre-print*```
 4. [LAMBERT: Layout-Aware (Language) Modeling for information extraction](https://arxiv.org/pdf/2002.08087.pdf), Łukasz Garncarek, Rafał Powalski, Tomasz Stanisławek, Bartosz Topolski, Piotr Halama, Michał Turski, and Filip Graliński  ```*Pre-print*```
 5. [Towards a Multi-modal, Multi-task Learning based Pre-training Framework for Document Representation Learning](https://arxiv.org/pdf/2009.14457), Subhojeet Pramanik, Shashank Mujumdar, Hima Patel  ```*Pre-print*```
-6. [LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding](https://arxiv.org/pdf/2104.08405.pdf), Te-Lin Wu, Cheng Li, Mingyang Zhan, Tao Chen, Spurthi Amba Hombaiah, Michael Bendersky  ```*Pre-print*```\\
-
-
+6. [LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding](https://arxiv.org/pdf/2104.08405.pdf), Te-Lin Wu, Cheng Li, Mingyang Zhan, Tao Chen, Spurthi Amba Hombaiah, Michael Bendersky  ```*Pre-print*```\
+\
+\
+\
+\
 
 # Layout Analysis
 
@@ -62,9 +66,11 @@ We classify these papers in five different categories.
 5. [Multi-Modal Association based Grouping for Form Structure Extraction](https://openaccess.thecvf.com/content_WACV_2020/papers/Aggarwal_Multi-Modal_Association_based_Grouping_for_Form_Structure_Extraction_WACV_2020_paper.pdf), Milan Aggarwal, Mausoom Sarkar, Hiresh Gupta, and Balaji Krishnamurthy ```WACV 2020```
 6. [Simplified DOM Trees for Transferable Attribute Extraction from the Web](https://arxiv.org/pdf/2101.02415), Yichao Zhou, Ying Sheng, Nguyen Vo, Nick Edmonds, and Sandeep Tata  ```The Web Conference, 2021```
 7. [DocParser: Hierarchical Document Structure Parsing from Renderings](https://arxiv.org/pdf/1911.01702.pdf), Johannes Rausch, Octavio Martinez, Fabian Bissig,
-Ce Zhang, and Stefan Feuerriege ```*Pre-print*```\\
-
-
+Ce Zhang, and Stefan Feuerriege ```*Pre-print*```\
+\
+\
+\
+\
 
 # Classification
 
