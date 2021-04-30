@@ -1,6 +1,6 @@
 # On Visually Rich Documents
 
-#### [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
+### [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
 <br/>
 
