@@ -1,4 +1,4 @@
-# On Visually Rich Documents
+# A Snapshot of the Current Task-Space for Visually Rich Documents
 
 ### [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
@@ -10,7 +10,7 @@ A lot of interesting works have been published on Visually Rich Documents (VRD) 
 
 <br/>
 
-> **Disclaimer:** Please note that this is \*not\* an exhaustive list. If you think a work should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). We look forward to your contribution to keep this page up-to-date and useful.
+> **Disclaimer:** Please note that this is \*\*not\*\* an exhaustive list. If you think a work should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). We look forward to your contribution to keep this page up-to-date and useful.
 
 <br/>
 
@@ -29,26 +29,32 @@ We list these papers in five different directions.
 # Information Extraction
 
 1. [Fonduer: Knowledge base construction from richly formatted data](https://dl.acm.org/doi/pdf/10.1145/3183713.3183729), Sen Wu, Luke Hsiao, Xiao Cheng, Braden Hancock, Theodoros Rekatsinas, Philip Levis, and Christopher Ré ```SIGMOD 2018``` 
-2. [Visual segmentation for information extraction from heterogeneous visually rich documents](https://dl.acm.org/doi/pdf/10.1145/3299869.3319867), Ritesh Sarkhel, Arnab Nandi  ```SIGMOD 2019``` 
-3. [Improving Information Extraction from Visually Rich Documents using Visual Span Representations](https://dl.acm.org/doi/pdf/10.14778/3446095.3446104?casa_token=x-0X2vM1zRIAAAAA:YKowVCGnvgjZ7SjDkXmz7W5zlcay75SHl8VrwDZGrTZmeolGvfqNUwJU5hYOr22G0-vn80qHH185S74), Ritesh Sarkhel, Arnab Nandi  ```VLDB 2021``` 
-4. [CERES: Distantly Supervised Relation Extraction from the Semi-Structured Web](http://www.vldb.org/pvldb/vol11/p1084-lockard.pdf), Colin Lockard, Xin Luna Dong, Arash Einolghozati, and Prashant Shiralkar  ```VLDB 2018``` 
-5. [Glean: Structured Extractions from Templatic Documents](http://www.vldb.org/pvldb/vol14/p997-tata.pdf), Sandeep Tata, Navneet Potti, James B. Wendt, Lauro Beltrão Costa, Marc Najork, and Beliz Gunel  ```VLDB 2021``` 
-6. [FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents](https://dl.acm.org/doi/pdf/10.1145/3394486.3403153), Bill Yuchen Lin, Ying Sheng, Nguyen Vo, and Sandeep Tata  ```SIGKDD 2020``` 
-7. [One-shot Text Field Labeling using Attention and Belief Propagation for Structure Information Extraction](https://dl.acm.org/doi/pdf/10.1145/3394171.3413511), Mengli Cheng, Minghui Qiu, Xing Shi, Jun Huang, and Wei Lin  ```MM 2020```
-8. [Combining visual and textual features for information extraction from online flyers](https://www.aclweb.org/anthology/D14-1206.pdf), Emilia Apostolova, Noriko Tomuro  ```EMNLP 2014```
-9. [Chargrid: Towards Understanding 2D Documents](https://www.aclweb.org/anthology/D18-1476.pdf/), Anoop R Katti, Christian Reisswig, Cordula Guder, Sebastian Brarda, Steffen Bickel, Johannes Hohne, and Jean Baptiste Faddoul  ```EMNLP 2018``` 
-10. [Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](https://www.aclweb.org/anthology/N19-2005.pdf), Xiaojing Liu, Feiyu Gao, Qiong Zhang, and Huasha Zhao  ```NAACL 2019```
-11. [Zeroshotceres: Zero-shot relation extraction from semi-structured webpages](https://www.aclweb.org/anthology/2020.acl-main.721.pdf), Colin Lockard, Prashant Shiralkar, Xin Luna Dong, Hannaneh Hajishirzi  ```ACL 2020```
-12. [Representation learning for information extraction from form-like documents](https://www.aclweb.org/anthology/2020.acl-main.580.pdf), Bodhisattwa Prasad Majumder, Navneet Potti, Sandeep Tata, James Bradley Wendt, Qi Zhao, Marc Najork  ```ACL 2020```
-13. [End-to-End Extraction of Structured Information from Business Documents with Pointer-Generator Networks](https://www.aclweb.org/anthology/2020.spnlp-1.6.pdf), Clément Sage, Alex Aussem, Véronique Eglin, Haytham Elghazel, and Jérémy Espinas  ```Workshop on Structured Prediction, ACL 2020``` 
-14. [Robust Layout-aware IE for Visually Rich Documents with Pre-trained Language Models](https://dl.acm.org/doi/pdf/10.1145/3397271.3401442?casa_token=U2oKgMPm_AoAAAAA:AOSntcj2iIExwYnjGIpRQOjE8e2VAWBo_-_EHGdUkHDqUZoKtAHmg4gdXbOJpQBDpBQh5SYzyRQjRlU), Mengxi Wei, Yifan He, and Qiong Zhang  ```SIGIR 2020```
-15. [BERTgrid: Contextualized Embedding for 2D Document Representation and Understanding](https://openreview.net/pdf?id=H1gsGaq9US), Timo I. Denk, Christian Reisswig  ```Workshop on Document Intelligence, NeurIPS 2019``` 
-16. [PICK: Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf), Wenwen Yu, Ning Lu, Xianbiao Qi, Ping Gong, and Rong Xiao  ```*Pre-print*``` 
-17. [Spatial Dependency Parsing for Semi-Structured Document Information Extraction](https://arxiv.org/pdf/2005.00642.pdf), Wonseok Hwang, Jinyeong Yim, Seunghyun Park, Sohee Yang, and Minjoon Seo  ```*Pre-print*```
-18. [Abstractive Information Extraction from Scanned Invoices (AIESI) using End-to-end Sequential Approach](https://arxiv.org/abs/2009.05728), Shreeshiv Patel, Dvijesh Bhatt  ```*Pre-print*```
-19. [VisualWordGrid: Information Extraction From Scanned Documents Using A Multimodal Approach](https://arxiv.org/pdf/2010.02358.pdf), Mohamed Kerroumi, Othmane Sayem, and Aymen Shabou  ```*Pre-print*``` 
-20. [Wordgrid: Extending Chargrid with Word-level Information](https://www.researchgate.net/profile/Timo-Denk/publication/335715433_Wordgrid_Extending_Chargrid_with_Word-level_Information/links/5d77604c92851cacdb2e0858/Wordgrid-Extending-Chargrid-with-Word-level-Information.pdf), Timo I. Denk  ```*Pre-print*``` 
-21. [Spatial Dual-Modality Graph Reasoning for Key Information Extraction](https://arxiv.org/pdf/2103.14470.pdf), Hongbin Sun, Zhanghui Kuang, Xiaoyu Yue, Chenhao Lin and Wayne Zhang ```*Pre-print*```
+<details>
+  <p>
+    ```blah blah```
+  </p>
+</details>
+
+3. [Visual segmentation for information extraction from heterogeneous visually rich documents](https://dl.acm.org/doi/pdf/10.1145/3299869.3319867), Ritesh Sarkhel, Arnab Nandi  ```SIGMOD 2019``` 
+4. [Improving Information Extraction from Visually Rich Documents using Visual Span Representations](https://dl.acm.org/doi/pdf/10.14778/3446095.3446104?casa_token=x-0X2vM1zRIAAAAA:YKowVCGnvgjZ7SjDkXmz7W5zlcay75SHl8VrwDZGrTZmeolGvfqNUwJU5hYOr22G0-vn80qHH185S74), Ritesh Sarkhel, Arnab Nandi  ```VLDB 2021``` 
+5. [CERES: Distantly Supervised Relation Extraction from the Semi-Structured Web](http://www.vldb.org/pvldb/vol11/p1084-lockard.pdf), Colin Lockard, Xin Luna Dong, Arash Einolghozati, and Prashant Shiralkar  ```VLDB 2018``` 
+6. [Glean: Structured Extractions from Templatic Documents](http://www.vldb.org/pvldb/vol14/p997-tata.pdf), Sandeep Tata, Navneet Potti, James B. Wendt, Lauro Beltrão Costa, Marc Najork, and Beliz Gunel  ```VLDB 2021``` 
+7. [FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents](https://dl.acm.org/doi/pdf/10.1145/3394486.3403153), Bill Yuchen Lin, Ying Sheng, Nguyen Vo, and Sandeep Tata  ```SIGKDD 2020``` 
+8. [One-shot Text Field Labeling using Attention and Belief Propagation for Structure Information Extraction](https://dl.acm.org/doi/pdf/10.1145/3394171.3413511), Mengli Cheng, Minghui Qiu, Xing Shi, Jun Huang, and Wei Lin  ```MM 2020```
+9. [Combining visual and textual features for information extraction from online flyers](https://www.aclweb.org/anthology/D14-1206.pdf), Emilia Apostolova, Noriko Tomuro  ```EMNLP 2014```
+10. [Chargrid: Towards Understanding 2D Documents](https://www.aclweb.org/anthology/D18-1476.pdf/), Anoop R Katti, Christian Reisswig, Cordula Guder, Sebastian Brarda, Steffen Bickel, Johannes Hohne, and Jean Baptiste Faddoul  ```EMNLP 2018``` 
+11. [Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](https://www.aclweb.org/anthology/N19-2005.pdf), Xiaojing Liu, Feiyu Gao, Qiong Zhang, and Huasha Zhao  ```NAACL 2019```
+12. [Zeroshotceres: Zero-shot relation extraction from semi-structured webpages](https://www.aclweb.org/anthology/2020.acl-main.721.pdf), Colin Lockard, Prashant Shiralkar, Xin Luna Dong, Hannaneh Hajishirzi  ```ACL 2020```
+13. [Representation learning for information extraction from form-like documents](https://www.aclweb.org/anthology/2020.acl-main.580.pdf), Bodhisattwa Prasad Majumder, Navneet Potti, Sandeep Tata, James Bradley Wendt, Qi Zhao, Marc Najork  ```ACL 2020```
+14. [End-to-End Extraction of Structured Information from Business Documents with Pointer-Generator Networks](https://www.aclweb.org/anthology/2020.spnlp-1.6.pdf), Clément Sage, Alex Aussem, Véronique Eglin, Haytham Elghazel, and Jérémy Espinas  ```Workshop on Structured Prediction, ACL 2020``` 
+15. [Robust Layout-aware IE for Visually Rich Documents with Pre-trained Language Models](https://dl.acm.org/doi/pdf/10.1145/3397271.3401442?casa_token=U2oKgMPm_AoAAAAA:AOSntcj2iIExwYnjGIpRQOjE8e2VAWBo_-_EHGdUkHDqUZoKtAHmg4gdXbOJpQBDpBQh5SYzyRQjRlU), Mengxi Wei, Yifan He, and Qiong Zhang  ```SIGIR 2020```
+16. [BERTgrid: Contextualized Embedding for 2D Document Representation and Understanding](https://openreview.net/pdf?id=H1gsGaq9US), Timo I. Denk, Christian Reisswig  ```Workshop on Document Intelligence, NeurIPS 2019``` 
+17. [PICK: Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf), Wenwen Yu, Ning Lu, Xianbiao Qi, Ping Gong, and Rong Xiao  ```*Pre-print*``` 
+18. [Spatial Dependency Parsing for Semi-Structured Document Information Extraction](https://arxiv.org/pdf/2005.00642.pdf), Wonseok Hwang, Jinyeong Yim, Seunghyun Park, Sohee Yang, and Minjoon Seo  ```*Pre-print*```
+19. [Abstractive Information Extraction from Scanned Invoices (AIESI) using End-to-end Sequential Approach](https://arxiv.org/abs/2009.05728), Shreeshiv Patel, Dvijesh Bhatt  ```*Pre-print*```
+20. [VisualWordGrid: Information Extraction From Scanned Documents Using A Multimodal Approach](https://arxiv.org/pdf/2010.02358.pdf), Mohamed Kerroumi, Othmane Sayem, and Aymen Shabou  ```*Pre-print*``` 
+21. [Wordgrid: Extending Chargrid with Word-level Information](https://www.researchgate.net/profile/Timo-Denk/publication/335715433_Wordgrid_Extending_Chargrid_with_Word-level_Information/links/5d77604c92851cacdb2e0858/Wordgrid-Extending-Chargrid-with-Word-level-Information.pdf), Timo I. Denk  ```*Pre-print*``` 
+22. [Spatial Dual-Modality Graph Reasoning for Key Information Extraction](https://arxiv.org/pdf/2103.14470.pdf), Hongbin Sun, Zhanghui Kuang, Xiaoyu Yue, Chenhao Lin and Wayne Zhang ```*Pre-print*```
 
 <br/>
 
