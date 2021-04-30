@@ -1,6 +1,6 @@
 # On Visually Rich Documents
 
-## [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
+### [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
 ![Sample Visually Rich Documents](https://github.com/sarkhelritesh/vrd_resource/blob/main/github_vrd_example.jpg?raw=true "Sample Visually Rich Documents")
 
@@ -16,7 +16,7 @@ We list these papers in five different directions.
 - [Language Model](#language-model)
 - [Layout Analysis](#layout-analysis)
 - [Classification](#document-classification)
-- [Resource Paper](#resource-paper)
+- [Resource Papers](#resource-papers)
 
 <br/>
 
@@ -83,7 +83,7 @@ Ce Zhang, and Stefan Feuerriege ```*Pre-print*```
 
 <br/>
 
-# Resource Paper
+# Resource Papers
 
 1. [DocBank: A Benchmark Dataset for Document Layout Analysis](https://www.aclweb.org/anthology/2020.coling-main.82.pdf), Minghao Li, Yiheng Xu, Lei Cui, Shaohan Huang, Furu Wei, Zhoujun Li, and Ming Zhou  ```COLING 2020```
 2. [Evaluation of deep convolutional nets for document image classification and retrieval](https://ieeexplore.ieee.org/iel7/7321714/7333702/07333910.pdf?casa_token=ghPOsBUaz5gAAAAA:hn5TYNmd9mQimKG5Uhsp87DXBZlvYFnjE5OWJhmqSppKZ-GOWQVAMzGU8xEZxBSbeM9Ak54hI1g), Muhammad Zeshan Afzal, Andreas Kölsch, Sheraz Ahmed, and Marcus Liwicki ```ICDAR 2015```
