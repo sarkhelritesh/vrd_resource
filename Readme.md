@@ -10,7 +10,9 @@ A lot of interesting works have been published in recent years on Visually Rich 
 
 **Disclaimer: This is ~~ not ~~ an exhaustive list. If you think a paper should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). We look forward to your contribution to keep this page up-to-date!**
 
-## Content Overview
+<br/>
+
+# Content Overview
 
 We list these papers in five different directions. 
 
@@ -20,6 +22,7 @@ We list these papers in five different directions.
 - [Classification](#document-classification)
 - [Resource Papers](#resource-papers)
 
+<br/>
 
 # Information Extraction
 
