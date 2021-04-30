@@ -1,11 +1,11 @@
 # Visually Rich Documents
 
-## A list of recent papers on various tasks for Visually Rich Documents
+## A list of recent papers on Visually Rich Documents
 
 Curated by: [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
 
-A lot of interesting works have been published in recent years on Visually Rich Documents. What makes tasks defined on these documents interesting is the multimodal nature of the document. We hope to provide a list of interesting papers to serve as a reference for researchers interested in this domain. This list curates recently published works in ACL anthology, VLDB, SIGMOD, AAAI, SIGKDD and NeurIPS affiliated conferences/workshops in no particular order. We also include some relevant pre-prints on this domain. 
+A lot of interesting works have been published in recent years on Visually Rich Documents (VRD). What makes tasks defined on VRD more challenging than plain-text documents is its inherent multimodal nature. We provide a list of recent papers on VRD hoping it will act as a reference for researchers interested in this domain. This list curates some intersting pre-prints and published works from ACL anthology, VLDB, SIGMOD, AAAI, SIGKDD and NeurIPS affiliated conferences/workshops in no particular order.  
 
 
 **Disclaimer: This is |not| an exhaustive list. If you think a relevant paper should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). Your contribution is essential to keep this page up-to-date!**
@@ -45,3 +45,4 @@ We classify these papers in five different categories.
 
     
 # Language-Model
+
