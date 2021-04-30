@@ -28,15 +28,9 @@ We list these papers in five different directions.
 
 # Information Extraction
 
-1. [Fonduer: Knowledge base construction from richly formatted data](https://dl.acm.org/doi/pdf/10.1145/3183713.3183729), Sen Wu, Luke Hsiao, Xiao Cheng, Braden Hancock, Theodoros Rekatsinas, Philip Levis, and Christopher Ré ```SIGMOD 2018``` <details> <summary> + </summary> <p>
-      
-          blah blah
-                  
-      </p>
-    </details>
-
-3. [Visual segmentation for information extraction from heterogeneous visually rich documents](https://dl.acm.org/doi/pdf/10.1145/3299869.3319867), Ritesh Sarkhel, Arnab Nandi  ```SIGMOD 2019``` 
-4. [Improving Information Extraction from Visually Rich Documents using Visual Span Representations](https://dl.acm.org/doi/pdf/10.14778/3446095.3446104?casa_token=x-0X2vM1zRIAAAAA:YKowVCGnvgjZ7SjDkXmz7W5zlcay75SHl8VrwDZGrTZmeolGvfqNUwJU5hYOr22G0-vn80qHH185S74), Ritesh Sarkhel, Arnab Nandi  ```VLDB 2021``` 
+1. [Fonduer: Knowledge base construction from richly formatted data](https://dl.acm.org/doi/pdf/10.1145/3183713.3183729), Sen Wu, Luke Hsiao, Xiao Cheng, Braden Hancock, Theodoros Rekatsinas, Philip Levis, and Christopher Ré ```SIGMOD 2018``` <details> <summary> + </summary> *"blah blah"* </details> 
+2. [Visual segmentation for information extraction from heterogeneous visually rich documents](https://dl.acm.org/doi/pdf/10.1145/3299869.3319867), Ritesh Sarkhel, Arnab Nandi  ```SIGMOD 2019``` 
+3. [Improving Information Extraction from Visually Rich Documents using Visual Span Representations](https://dl.acm.org/doi/pdf/10.14778/3446095.3446104?casa_token=x-0X2vM1zRIAAAAA:YKowVCGnvgjZ7SjDkXmz7W5zlcay75SHl8VrwDZGrTZmeolGvfqNUwJU5hYOr22G0-vn80qHH185S74), Ritesh Sarkhel, Arnab Nandi  ```VLDB 2021``` 
 5. [CERES: Distantly Supervised Relation Extraction from the Semi-Structured Web](http://www.vldb.org/pvldb/vol11/p1084-lockard.pdf), Colin Lockard, Xin Luna Dong, Arash Einolghozati, and Prashant Shiralkar  ```VLDB 2018``` 
 6. [Glean: Structured Extractions from Templatic Documents](http://www.vldb.org/pvldb/vol14/p997-tata.pdf), Sandeep Tata, Navneet Potti, James B. Wendt, Lauro Beltrão Costa, Marc Najork, and Beliz Gunel  ```VLDB 2021``` 
 7. [FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents](https://dl.acm.org/doi/pdf/10.1145/3394486.3403153), Bill Yuchen Lin, Ying Sheng, Nguyen Vo, and Sandeep Tata  ```SIGKDD 2020``` 
