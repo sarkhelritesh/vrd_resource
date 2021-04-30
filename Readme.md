@@ -4,7 +4,7 @@
 
 A lot of interesting works have been published in recent years on Visually Rich Documents (VRD). What makes tasks defined on VRD more challenging than plain-text documents is its inherent multimodal nature. We provide a list of recent papers on VRD hoping it will act as a reference for researchers interested in working with VRD. This list curates some of the intersting works published in this domain in recent years in no particular order. You will also find a single bibtex file with all the papers listed below in this repository.    
 
-**Disclaimer: This is | not | an exhaustive list. If you think a relevant paper should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). Your contribution is essential to keep this page up-to-date!**
+**Disclaimer: This is -- not -- an exhaustive list. If you think a relevant paper should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). Your contribution is essential to keep this page up-to-date!**
 
 
 ## Content Overview
