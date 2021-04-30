@@ -1,4 +1,4 @@
-# A list of papers on Visually Rich Documents
+# On Visually Rich Documents
 
 *Curated by:* [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
@@ -9,13 +9,12 @@ A lot of interesting works have been published in recent years on Visually Rich 
 
 ## Content Overview
 
-We classify these papers in five different categories. 
+We list papers in four different directions. 
 
 - [Information Extraction](#information-extraction)
 - [Language Model](#language-model)
 - [Layout Analysis](#layout-analysis)
 - [Classification](#document-classification)
-- [Retrieval](#retrieval)
 
 <br/>
 
@@ -51,9 +50,9 @@ We classify these papers in five different categories.
 3. [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/pdf/2012.14740.pdf), Yang Xu, Yiheng Xu, Tengchao Lv, Lei Cui, Furu Wei, Guoxin Wang, Yijuan Lu, Dinei Florencio, Cha Zhang, Wanxiang Che, Min Zhang, and Lidong Zhou  ```*Pre-print*```
 4. [LAMBERT: Layout-Aware (Language) Modeling for information extraction](https://arxiv.org/pdf/2002.08087.pdf), Łukasz Garncarek, Rafał Powalski, Tomasz Stanisławek, Bartosz Topolski, Piotr Halama, Michał Turski, and Filip Graliński  ```*Pre-print*```
 5. [Towards a Multi-modal, Multi-task Learning based Pre-training Framework for Document Representation Learning](https://arxiv.org/pdf/2009.14457), Subhojeet Pramanik, Shashank Mujumdar, Hima Patel  ```*Pre-print*```
-6. [LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding](https://arxiv.org/pdf/2104.08405.pdf), Te-Lin Wu, Cheng Li, Mingyang Zhan, Tao Chen, Spurthi Amba Hombaiah, Michael Bendersky  ```*Pre-print*```\
+6. [LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding](https://arxiv.org/pdf/2104.08405.pdf), Te-Lin Wu, Cheng Li, Mingyang Zhan, Tao Chen, Spurthi Amba Hombaiah, Michael Bendersky  ```*Pre-print*```
 
-<br/><br/>
+<br/>
 
 # Layout Analysis
 
@@ -63,7 +62,7 @@ We classify these papers in five different categories.
 5. [Multi-Modal Association based Grouping for Form Structure Extraction](https://openaccess.thecvf.com/content_WACV_2020/papers/Aggarwal_Multi-Modal_Association_based_Grouping_for_Form_Structure_Extraction_WACV_2020_paper.pdf), Milan Aggarwal, Mausoom Sarkar, Hiresh Gupta, and Balaji Krishnamurthy ```WACV 2020```
 6. [Simplified DOM Trees for Transferable Attribute Extraction from the Web](https://arxiv.org/pdf/2101.02415), Yichao Zhou, Ying Sheng, Nguyen Vo, Nick Edmonds, and Sandeep Tata  ```The Web Conference, 2021```
 7. [DocParser: Hierarchical Document Structure Parsing from Renderings](https://arxiv.org/pdf/1911.01702.pdf), Johannes Rausch, Octavio Martinez, Fabian Bissig,
-Ce Zhang, and Stefan Feuerriege ```*Pre-print*```\
+Ce Zhang, and Stefan Feuerriege ```*Pre-print*```
 
 <br/>
 
@@ -77,10 +76,7 @@ Ce Zhang, and Stefan Feuerriege ```*Pre-print*```\
 6. [Multimodal Document Image Classification](https://ieeexplore.ieee.org/document/8977998), Rajiv Jain, Curtis Wigington  ```ICDAR 2019```
 7. [Two Stream Deep Network for Document Image Classification](https://ieeexplore.ieee.org/document/8978000), Muhammad Nabeel Asim, Muhammad Usman Ghani Khan, Muhammad Imran Malik, Khizar Razzaque, Andreas Dengel, and Sheraz Ahmed ```ICDAR 2019```
 8. [Unsupervised exemplar-based learning for improved document image classification](https://ieeexplore.ieee.org/iel7/6287639/8600701/08843852.pdf), Sherif Abuelwafa, Marco Pedersoli, and Mohamed Cheriet ```IEEE Access 2019```
-9. [Visual and Textual Deep Feature Fusion for Document Image Classification](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Bakkali_Visual_and_Textual_Deep_Feature_Fusion_for_Document_Image_Classification_CVPRW_2020_paper.pdf), Souhail Bakkali, Zuheng Ming, Mickael Coustaty, and Marc al Rusinol ```CVPR Workshop 2020```\
+9. [Visual and Textual Deep Feature Fusion for Document Image Classification](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Bakkali_Visual_and_Textual_Deep_Feature_Fusion_for_Document_Image_Classification_CVPRW_2020_paper.pdf), Souhail Bakkali, Zuheng Ming, Mickael Coustaty, and Marc al Rusinol ```CVPR Workshop 2020```
+10. [Structural similarity for document image classification and retrieval](https://www.sciencedirect.com/science/article/pii/S0167865513004224?casa_token=S_v8V3Ad8_sAAAAA:w7K-TImQVxvilo8QbK1kf0Jr4iggP5YVZfoB9dpWYcBGl53LXiL9Zynmi4uVp13gD-jxuJLySD_f), Jayant Kumar, Peng Ye, and David Doermann ```Pattern Recognition Letters 2014```
 
 <br/>
-
-# Retrieval
-
-1.
