@@ -15,12 +15,11 @@ A lot of interesting works have been published in recent years on Visually Rich 
 
 We classify these papers in five different categories. 
 
-- [Paper List](#paper-list)
-    - [Information Extraction](#information-extraction)
-    - [Language Model](#language-model)
-    - [Layout Analysis](#layout-analysis)
-    - [Classification](#document-classification)
-    - [Retrieval](#retrieval)
+- [Information Extraction](#information-extraction)
+- [Language Model](#language-model)
+- [Layout Analysis](#layout-analysis)
+- [Classification](#document-classification)
+- [Retrieval](#retrieval)
 
 # Information Extraction
 
@@ -53,7 +52,7 @@ We classify these papers in five different categories.
 3. [LAMBERT: Layout-Aware (Language) Modeling for information extraction](https://arxiv.org/pdf/2002.08087.pdf), Łukasz Garncarek, Rafał Powalski, Tomasz Stanisławek, Bartosz Topolski, Piotr Halama, Michał Turski, and Filip Graliński  ```*Pre-print*```
 4. [Towards a Multi-modal, Multi-task Learning based Pre-training Framework for Document Representation Learning](https://arxiv.org/pdf/2009.14457), Subhojeet Pramanik, Shashank Mujumdar, Hima Patel  ```*Pre-print*```
 5. [LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding](https://arxiv.org/pdf/2104.08405.pdf), Te-Lin Wu, Cheng Li, Mingyang Zhan, Tao Chen, Spurthi Amba Hombaiah, Michael Bendersky  ```*Pre-print*```
-6. [Self-Supervised Representation Learning on Document Images](https://arxiv.org/pdf/2004.10605.pdf), Adrian Cosma, Mihai Ghidoveanu, Michael Panaitescu-Liess, and Marius Popescu ```Workshop on Document Analysis Systems 2020```
+6. [Self-Supervised Representation Learning on Document Images](https://arxiv.org/pdf/2004.10605.pdf), Adrian Cosma, Mihai Ghidoveanu, Michael Panaitescu-Liess, and Marius Popescu ```Workshop on Document Analysis Systems, 2020```
 
 
 
