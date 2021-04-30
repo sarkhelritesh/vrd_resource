@@ -6,7 +6,7 @@
 
 ![Sample Visually Rich Documents](https://github.com/sarkhelritesh/vrd_resource/blob/main/github_vrd_example.jpg?raw=true "Sample Visually Rich Documents")
 
-A lot of interesting works have been published in recent years on Visually Rich Documents (VRD). What makes tasks defined on VRD more challenging than plain-text documents is its inherent multimodal nature. We provide a list of recent papers on VRD hoping it will act as a *reference for researchers interested in problems related to Visually Rich Documents*. This list features, in no particular order, some of the most intersting works on Visually Rich Documents published in recent years. You will also find a bibtex file (```vrd.bib```) in this repository that contains all the papers we have listed below.   
+A lot of interesting works have been published in recent years on Visually Rich Documents (VRD). What makes tasks defined on a Visually Rich Document challenging than its plain-text counterpart is often its multimodal nature. We provide a list of recent papers on VRD here, hoping that it will act as a *reference* for our peers interested in this research direction. The list below features, in no particular order, some of the most intersting works on VRD in recent years. You will also find a bibtex file (```vrd.bib```) in this repository containing all the papers listed below.   
 
 **Disclaimer: This is ~~ not ~~ an exhaustive list. If you think a paper should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). We look forward to your contribution to keep this page up-to-date!**
 
