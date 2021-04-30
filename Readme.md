@@ -29,11 +29,11 @@ We list these papers in five different directions.
 # Information Extraction
 
 1. [Fonduer: Knowledge base construction from richly formatted data](https://dl.acm.org/doi/pdf/10.1145/3183713.3183729), Sen Wu, Luke Hsiao, Xiao Cheng, Braden Hancock, Theodoros Rekatsinas, Philip Levis, and Christopher Ré ```SIGMOD 2018``` 
-<details>
-  <p>
-    ```blah blah```
-  </p>
-</details>
+    <details>
+      <p>
+        blah blah
+      </p>
+    </details>
 
 3. [Visual segmentation for information extraction from heterogeneous visually rich documents](https://dl.acm.org/doi/pdf/10.1145/3299869.3319867), Ritesh Sarkhel, Arnab Nandi  ```SIGMOD 2019``` 
 4. [Improving Information Extraction from Visually Rich Documents using Visual Span Representations](https://dl.acm.org/doi/pdf/10.14778/3446095.3446104?casa_token=x-0X2vM1zRIAAAAA:YKowVCGnvgjZ7SjDkXmz7W5zlcay75SHl8VrwDZGrTZmeolGvfqNUwJU5hYOr22G0-vn80qHH185S74), Ritesh Sarkhel, Arnab Nandi  ```VLDB 2021``` 
