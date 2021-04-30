@@ -31,7 +31,11 @@ We list papers from five different directions.
 1. [Fonduer: Knowledge base construction from richly formatted data](https://dl.acm.org/doi/pdf/10.1145/3183713.3183729), Sen Wu, Luke Hsiao, Xiao Cheng, Braden Hancock, Theodoros Rekatsinas, Philip Levis, and Christopher Ré ```SIGMOD 2018``` <details> <summary> + </summary> <p>
 
 
-```"We focus on knowledge base construction (KBC) from richly formatted data. In contrast to KBC from text or tabular data, KBC from richly formatted data aims to extract relations conveyed jointly via textual, structural, tabular, and visual expressions. We introduce Fonduer, a machine-learning-based KBC system for richly formatted data. Fonduer presents a new data model that accounts for three challenging characteristics of richly formatted data: (1) prevalent document-level relations, (2) multimodality, and (3) data variety. Fonduer uses a new deep-learning model to automatically capture the representation (i.e., features) needed to learn how to extract relations from richly formatted data. Finally, Fonduer provides a new programming model that enables users to convert domain expertise, based on multiple modalities of information, to meaningful signals of supervision for training a KBC system"``` 
+```c
+
+"We focus on knowledge base construction (KBC) from richly formatted data. In contrast to KBC from text or tabular data, KBC from richly formatted data aims to extract relations conveyed jointly via textual, structural, tabular, and visual expressions. We introduce Fonduer, a machine-learning-based KBC system for richly formatted data. Fonduer presents a new data model that accounts for three challenging characteristics of richly formatted data: (1) prevalent document-level relations, (2) multimodality, and (3) data variety. Fonduer uses a new deep-learning model to automatically capture the representation (i.e., features) needed to learn how to extract relations from richly formatted data. Finally, Fonduer provides a new programming model that enables users to convert domain expertise, based on multiple modalities of information, to meaningful signals of supervision for training a KBC system"
+
+``` 
 
 </p>
 </details> 
