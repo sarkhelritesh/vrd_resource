@@ -29,14 +29,12 @@ We list these papers in five different directions.
 # Information Extraction
 
 1. [Fonduer: Knowledge base construction from richly formatted data](https://dl.acm.org/doi/pdf/10.1145/3183713.3183729), Sen Wu, Luke Hsiao, Xiao Cheng, Braden Hancock, Theodoros Rekatsinas, Philip Levis, and Christopher Ré ```SIGMOD 2018``` 
-    <details Show more>
+    <details>
+      <summary> Tell me more </summary>
       <p>
-        ```c
-          
+      
           blah blah
-          
-        ```\
-        
+                  
       </p>
     </details>
 
