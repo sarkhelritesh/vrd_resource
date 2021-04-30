@@ -42,8 +42,6 @@ We classify these papers in five different categories.
 20. [Spatial Dual-Modality Graph Reasoning for Key Information Extraction](https://arxiv.org/pdf/2103.14470.pdf), Hongbin Sun, Zhanghui Kuang, Xiaoyu Yue, Chenhao Lin and Wayne Zhang ```*Pre-print*```\
 \
 \
-\
-\
 
 # Language Model
 
@@ -53,8 +51,6 @@ We classify these papers in five different categories.
 4. [LAMBERT: Layout-Aware (Language) Modeling for information extraction](https://arxiv.org/pdf/2002.08087.pdf), Łukasz Garncarek, Rafał Powalski, Tomasz Stanisławek, Bartosz Topolski, Piotr Halama, Michał Turski, and Filip Graliński  ```*Pre-print*```
 5. [Towards a Multi-modal, Multi-task Learning based Pre-training Framework for Document Representation Learning](https://arxiv.org/pdf/2009.14457), Subhojeet Pramanik, Shashank Mujumdar, Hima Patel  ```*Pre-print*```
 6. [LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding](https://arxiv.org/pdf/2104.08405.pdf), Te-Lin Wu, Cheng Li, Mingyang Zhan, Tao Chen, Spurthi Amba Hombaiah, Michael Bendersky  ```*Pre-print*```\
-\
-\
 \
 \
 
@@ -69,8 +65,15 @@ We classify these papers in five different categories.
 Ce Zhang, and Stefan Feuerriege ```*Pre-print*```\
 \
 \
-\
-\
 
 # Classification
 
+1. [Deterministic Routing between Layout Abstractions for Multi-Scale classification of Visually Rich Documents](https://www.ijcai.org/Proceedings/2019/0466.pdf), Ritesh Sarkhel, Arnab Nandi  ```IJCAI 2019``` 
+2. [Cutting the error by half: Investigation of very deep cnn and advanced training strategies for document image classification](https://ieeexplore.ieee.org/document/8270080), Muhammad Zeshan Afzal, Andreas Kölsch, Sheraz Ahmed, and Marcus Liwicki  ```ICDAR 2017``` 
+3. [Real-time document image classification using deep CNN and extreme learning machines](https://ieeexplore.ieee.org/document/8270148), Andreas Kölsch, Muhammad Zeshan Afzal, Markus Ebbecke, and Marcus Liwicki ```ICDAR 2017``` 
+4. [Analysis of convolutional neural networks for document image classification](https://ieeexplore.ieee.org/document/8270002), Chris Tensmeyer, Tony Martinez  ```ICDAR 2017```
+5.  [Document Image Classification with Intra-Domain Transfer Learning and Stacked Generalization of Deep Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8545630), Arindam Das, Saikat Roy, Ujjwal Bhattacharya, and Swapan K. Parui  ```ICPR 2018```
+6. [Multimodal Document Image Classification](https://ieeexplore.ieee.org/document/8977998), Rajiv Jain, Curtis Wigington  ```ICDAR 2019```
+7. [Two Stream Deep Network for Document Image Classification](https://ieeexplore.ieee.org/document/8978000), Muhammad Nabeel Asim, Muhammad Usman Ghani Khan, Muhammad Imran Malik, Khizar Razzaque, Andreas Dengel, and Sheraz Ahmed ```ICDAR 2019```
+8. [Unsupervised exemplar-based learning for improved document image classification](https://ieeexplore.ieee.org/iel7/6287639/8600701/08843852.pdf), Sherif Abuelwafa, Marco Pedersoli, and Mohamed Cheriet ```IEEE Access 2019```
+9. [Visual and Textual Deep Feature Fusion for Document Image Classification](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Bakkali_Visual_and_Textual_Deep_Feature_Fusion_for_Document_Image_Classification_CVPRW_2020_paper.pdf), Souhail Bakkali, Zuheng Ming, Mickael Coustaty, and Marc al Rusinol ```CVPR Workshop 2020```
