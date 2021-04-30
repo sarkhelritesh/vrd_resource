@@ -1,8 +1,8 @@
-# A list of recent papers on Visually Rich Documents
+# A list of papers on Visually Rich Documents
 
 Curated by: [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
-A lot of interesting works have been published in recent years on Visually Rich Documents (VRD). What makes tasks defined on VRD more challenging than plain-text documents is its inherent multimodal nature. We provide a list of recent papers on VRD hoping it will act as a reference for researchers interested in this domain. This list curates some intersting pre-prints and published works in no particular order.  
+A lot of interesting works have been published in recent years on Visually Rich Documents (VRD). What makes tasks defined on VRD more challenging than plain-text documents is its inherent multimodal nature. We provide a list of recent papers on VRD hoping it will act as a reference for researchers interested in working with VRD. This list curates some of the intersting works published in this domain in no particular order.  
 
 **Disclaimer: This is | not | an exhaustive list. If you think a relevant paper should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). Your contribution is essential to keep this page up-to-date!**
 
@@ -40,8 +40,7 @@ We classify these papers in five different categories.
 18. [VisualWordGrid: Information Extraction From Scanned Documents Using A Multimodal Approach](https://arxiv.org/pdf/2010.02358.pdf), Mohamed Kerroumi, Othmane Sayem, and Aymen Shabou  ```*Pre-print*``` 
 19. [Wordgrid: Extending Chargrid with Word-level Information](https://www.researchgate.net/profile/Timo-Denk/publication/335715433_Wordgrid_Extending_Chargrid_with_Word-level_Information/links/5d77604c92851cacdb2e0858/Wordgrid-Extending-Chargrid-with-Word-level-Information.pdf), Timo I. Denk  ```*Pre-print*``` 
 20. [Spatial Dual-Modality Graph Reasoning for Key Information Extraction](https://arxiv.org/pdf/2103.14470.pdf), Hongbin Sun, Zhanghui Kuang, Xiaoyu Yue, Chenhao Lin and Wayne Zhang ```*Pre-print*```\
-\
-\
+\\
 
 # Language Model
 
@@ -51,8 +50,7 @@ We classify these papers in five different categories.
 4. [LAMBERT: Layout-Aware (Language) Modeling for information extraction](https://arxiv.org/pdf/2002.08087.pdf), Łukasz Garncarek, Rafał Powalski, Tomasz Stanisławek, Bartosz Topolski, Piotr Halama, Michał Turski, and Filip Graliński  ```*Pre-print*```
 5. [Towards a Multi-modal, Multi-task Learning based Pre-training Framework for Document Representation Learning](https://arxiv.org/pdf/2009.14457), Subhojeet Pramanik, Shashank Mujumdar, Hima Patel  ```*Pre-print*```
 6. [LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding](https://arxiv.org/pdf/2104.08405.pdf), Te-Lin Wu, Cheng Li, Mingyang Zhan, Tao Chen, Spurthi Amba Hombaiah, Michael Bendersky  ```*Pre-print*```\
-\
-\
+\\
 
 # Layout Analysis
 
@@ -63,8 +61,7 @@ We classify these papers in five different categories.
 6. [Simplified DOM Trees for Transferable Attribute Extraction from the Web](https://arxiv.org/pdf/2101.02415), Yichao Zhou, Ying Sheng, Nguyen Vo, Nick Edmonds, and Sandeep Tata  ```The Web Conference, 2021```
 7. [DocParser: Hierarchical Document Structure Parsing from Renderings](https://arxiv.org/pdf/1911.01702.pdf), Johannes Rausch, Octavio Martinez, Fabian Bissig,
 Ce Zhang, and Stefan Feuerriege ```*Pre-print*```\
-\
-\
+\\
 
 # Classification
 
@@ -76,4 +73,9 @@ Ce Zhang, and Stefan Feuerriege ```*Pre-print*```\
 6. [Multimodal Document Image Classification](https://ieeexplore.ieee.org/document/8977998), Rajiv Jain, Curtis Wigington  ```ICDAR 2019```
 7. [Two Stream Deep Network for Document Image Classification](https://ieeexplore.ieee.org/document/8978000), Muhammad Nabeel Asim, Muhammad Usman Ghani Khan, Muhammad Imran Malik, Khizar Razzaque, Andreas Dengel, and Sheraz Ahmed ```ICDAR 2019```
 8. [Unsupervised exemplar-based learning for improved document image classification](https://ieeexplore.ieee.org/iel7/6287639/8600701/08843852.pdf), Sherif Abuelwafa, Marco Pedersoli, and Mohamed Cheriet ```IEEE Access 2019```
-9. [Visual and Textual Deep Feature Fusion for Document Image Classification](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Bakkali_Visual_and_Textual_Deep_Feature_Fusion_for_Document_Image_Classification_CVPRW_2020_paper.pdf), Souhail Bakkali, Zuheng Ming, Mickael Coustaty, and Marc al Rusinol ```CVPR Workshop 2020```
+9. [Visual and Textual Deep Feature Fusion for Document Image Classification](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Bakkali_Visual_and_Textual_Deep_Feature_Fusion_for_Document_Image_Classification_CVPRW_2020_paper.pdf), Souhail Bakkali, Zuheng Ming, Mickael Coustaty, and Marc al Rusinol ```CVPR Workshop 2020```\
+\\
+
+# Retrieval
+
+1.
