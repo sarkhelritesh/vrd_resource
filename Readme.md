@@ -42,7 +42,7 @@ We classify these papers in five different categories.
 19. [Wordgrid: Extending Chargrid with Word-level Information](https://www.researchgate.net/profile/Timo-Denk/publication/335715433_Wordgrid_Extending_Chargrid_with_Word-level_Information/links/5d77604c92851cacdb2e0858/Wordgrid-Extending-Chargrid-with-Word-level-Information.pdf), Timo I. Denk  ```*Pre-print*``` 
 20. [Spatial Dual-Modality Graph Reasoning for Key Information Extraction](https://arxiv.org/pdf/2103.14470.pdf), Hongbin Sun, Zhanghui Kuang, Xiaoyu Yue, Chenhao Lin and Wayne Zhang ```*Pre-print*```
 
-<br/><br/>
+<br/>
 
 # Language Model
 
@@ -65,7 +65,7 @@ We classify these papers in five different categories.
 7. [DocParser: Hierarchical Document Structure Parsing from Renderings](https://arxiv.org/pdf/1911.01702.pdf), Johannes Rausch, Octavio Martinez, Fabian Bissig,
 Ce Zhang, and Stefan Feuerriege ```*Pre-print*```\
 
-<br/><br/>
+<br/>
 
 # Classification
 
@@ -79,7 +79,7 @@ Ce Zhang, and Stefan Feuerriege ```*Pre-print*```\
 8. [Unsupervised exemplar-based learning for improved document image classification](https://ieeexplore.ieee.org/iel7/6287639/8600701/08843852.pdf), Sherif Abuelwafa, Marco Pedersoli, and Mohamed Cheriet ```IEEE Access 2019```
 9. [Visual and Textual Deep Feature Fusion for Document Image Classification](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Bakkali_Visual_and_Textual_Deep_Feature_Fusion_for_Document_Image_Classification_CVPRW_2020_paper.pdf), Souhail Bakkali, Zuheng Ming, Mickael Coustaty, and Marc al Rusinol ```CVPR Workshop 2020```\
 
-<br/><br/>
+<br/>
 
 # Retrieval
 
