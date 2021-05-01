@@ -8,7 +8,7 @@
 
 A lot of interesting works have been published on Visually Rich Documents (VRD) in recent years. What makes tasks defined on a VRD often more challenging than its plain-text counterpart is its multimodal nature. We provide a list of works on various problems related to VRD here. Our hope is that this will act as a *resource of reference* for researchers interested in this domain. 
 
-The following list presents, in no particular order, a number of intersting papers on VRD published in recent years. Expand each entry to reveal a brief description of its main constributions. You will also find a single bibtex file (```vrd.bib```) containing all the papers listed in this repository.
+The following list presents, in no particular order, a number of intersting papers on VRD published in recent years. You will also find a single bibtex file (```vrd.bib```) containing all the papers listed in this repository.
 
 <br/>
 
@@ -18,7 +18,7 @@ The following list presents, in no particular order, a number of intersting pape
 
 # Content Overview
 
-We list papers from five different directions below. 
+We list papers from five different directions below. Expand each entry to reveal a brief description of its main constributions.
 
 - [Information Extraction](#information-extraction)
 - [Language Model](#language-model)
