@@ -1,4 +1,4 @@
-# On the current task-space of Visually Rich Documents
+# The task-space on Visually Rich Documents
 
 ### [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
