@@ -12,7 +12,7 @@ The following list presents, in no particular order, a number of intersting pape
 
 <br/>
 
-> **Disclaimer:** Please note that this is \*\*not\*\* an exhaustive list. If you think a work should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). We look forward to your contribution to keep this page up-to-date with the latest developments in the community.
+> **Disclaimer:** Please note that this is \*\*not\*\* an exhaustive list. If you think a work should feature on this list, please submit a pull request or [email me](mailto:sarkhel.5@osu.edu). We look forward to your contribution to keep this page up-to-date with the latest developments in our community.
 
 <br/>
 
