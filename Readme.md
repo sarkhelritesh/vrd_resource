@@ -18,7 +18,7 @@ The following list presents, in no particular order, a number of intersting pape
 
 # Content Overview
 
-We list papers from five different directions in this page. For each paper, click the ```+``` sign next to its entry to reveal a brief description of its main constributions.
+We list papers from five different directions in this page. Click the ```+``` sign next to each paper to read a brief description of its main contributions.
 
 - [Information Extraction](#information-extraction)
 - [Language Model](#language-model)
