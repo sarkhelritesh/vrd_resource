@@ -1,4 +1,4 @@
-# The task-space on Visually Rich Documents
+# Awesome Visually Rich Documents
 
 ### [Ritesh Sarkhel](https://sarkhelritesh.github.io/)
 
